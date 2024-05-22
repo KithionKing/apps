@@ -7,5 +7,7 @@ public class MyClass {
     myMethod();
   }
 }
-
+{
+	chdcjdncnk
+}
 // Outputs "Hello World!"
