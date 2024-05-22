@@ -9,5 +9,6 @@ public class MyClass {
 }
 {
 	chdcjdncnk
+lkedleldc
 }
 // Outputs "Hello World!"
